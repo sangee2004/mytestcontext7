@@ -61,7 +61,7 @@ config:
     usage: header
   - name: X-Test
     description: Static header
-    key: Authorization
+    key: X-Test
     required: true
     sensitive: false
     value: "hello"
