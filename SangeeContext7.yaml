@@ -1,5 +1,5 @@
-name: Context7
-entryKey: obot-context7
+name: Sangee Context7
+entryKey: sangee-context7
 shortDescription: Get up-to-date, version-specific code documentation and examples for any library
 upgradeNote: |
   This replaces the Obot-hosted Context7 server with Context7's official hosted MCP server.
