@@ -1,4 +1,5 @@
 name: Sangee Context7
+minObotVersion: v0.25.6
 entryKey: sangee-context7
 shortDescription: Get up-to-date, version-specific code documentation and examples for any library
 upgradeNote: |
