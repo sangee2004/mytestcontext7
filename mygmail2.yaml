@@ -1,6 +1,6 @@
 name: SangeeGmail2
 minObotVersion: v0.27.0
-entryKey: obot-gmail
+entryKey: obot-gmail2
 serverUserType: singleUser
 shortDescription: Send, read, draft, and organize Gmail emails with label management and search
 description: |
