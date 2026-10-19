@@ -1,6 +1,6 @@
 name: SangeeGmail4
-maxObotVersion: v0.27.0
-minObotVersion: v0.25.6
+maxObotVersion: v0.29.0
+minObotVersion: v0.28.0
 entryKey: obot-gmail4
 serverUserType: singleUser
 shortDescription: Send, read, draft, and organize Gmail emails with label management and search
