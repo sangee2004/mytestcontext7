@@ -1,5 +1,5 @@
 name: SangeeGmail3
-maxObotVersion: v0.28.0
+maxObotVersion: v0.26.0
 entryKey: obot-gmail3
 serverUserType: singleUser
 shortDescription: Send, read, draft, and organize Gmail emails with label management and search
